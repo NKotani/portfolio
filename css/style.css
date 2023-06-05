@@ -1,11 +1,18 @@
 @charset "UTF-8";
 
+:root {
+  --blue-color: #91D1BF;
+  --red-color: #EC7B7C;
+}
+
 html {
   /* 10px */
   font-size:62.5%; 
 }
 body {
   font-size:1.8rem;
+  margin: 0%;
+  padding: 0.7em;
 }
 *, *::before, *::after {
   box-sizing:border-box;
@@ -14,4 +21,11 @@ body {
   content:'';
   display:block;
   clear:both;
+}
+
+footer{
+  width: 100%;
+  padding: 0.1em;
+  background-color: var(--blue-color);
+  text-align: center;
 }
