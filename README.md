@@ -11,6 +11,8 @@ My portfolio URL is [here](https://NKotani.github.io/portfolio/)
 
 ### IVRC (Interverse Virtual Reality Challenge)
 - SEED STAGE @ VR学会大会, 2023
+  - [Project Video](https://youtu.be/iUkLfrCzRpg?si=Ho6-rx27_uwsKfLR)
+  - [Interview Video](https://youtu.be/hzO8jsZuyYo?si=61wYlLEeV7PgS9vp)
 - LEAP STAGE @ サイエンスアゴラ, 2023
 
 ## Participation in Conferences and Contests
@@ -23,4 +25,6 @@ My portfolio URL is [here](https://NKotani.github.io/portfolio/)
 
 ### IVRC (Interverse Virtual Reality Challenge)
 - SEED STAGE @ The Conference of the Viertual reality society of Japan, 2023
+  - [Project Video](https://youtu.be/iUkLfrCzRpg?si=Ho6-rx27_uwsKfLR)
+  - [Interview Video](https://youtu.be/hzO8jsZuyYo?si=61wYlLEeV7PgS9vp)
 - LEAP STAGE @ Science Agora, 2023
