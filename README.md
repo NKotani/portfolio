@@ -29,4 +29,4 @@ My portfolio URL is [here](https://NKotani.github.io/portfolio/)
   - [Project Video](https://youtu.be/iUkLfrCzRpg?si=Ho6-rx27_uwsKfLR)
   - [Interview Video](https://youtu.be/hzO8jsZuyYo?si=61wYlLEeV7PgS9vp)
 - LEAP STAGE @ Science Agora, 2023
-　　- [Article featured in ITmedia NEWS](https://www.itmedia.co.jp/news/articles/2311/16/news046.html)
+  - [Article featured in ITmedia NEWS](https://www.itmedia.co.jp/news/articles/2311/16/news046.html)
