@@ -9,7 +9,8 @@ My portfolio URL is [here](https://NKotani.github.io/portfolio/)
   - Point Anywhere: Directed Object Estimation from Omnidirectional Images
   - [Project Page](https://github.com/NKotani/PointAnywhere)
 
-### 聖剣を継ぐ者 - 集中の証明 -　(VRと剣型デバイスを組み合わせた現実とVR空間を繋ぐ作品)
+### 聖剣を継ぐ者 - 集中の証明 -　
+VRと剣型デバイスを組み合わせた現実とVR空間を繋ぐ作品
 - IVRC (Interverse Virtual Reality Challenge) SEED STAGE @ VR学会大会, 2023
   - [Project Video](https://youtu.be/iUkLfrCzRpg?si=Ho6-rx27_uwsKfLR)
   - [Interview Video](https://youtu.be/hzO8jsZuyYo?si=61wYlLEeV7PgS9vp)
@@ -25,7 +26,8 @@ My portfolio URL is [here](https://NKotani.github.io/portfolio/)
   - Point Anywhere: Directed Object Estimation from Omnidirectional Images
   - [Project Page](https://github.com/NKotani/PointAnywhere)
 
-### The Legend of Holy Sword　-Proof of Concentration -　(The work that connects reality and VR space by combining VR and sword-shaped devices)
+### The Legend of Holy Sword　-Proof of Concentration -　
+The work that connects reality and VR space by combining VR and sword-shaped devices
 - IVRC (Interverse Virtual Reality Challenge) SEED STAGE @ The Conference of the Viertual reality society of Japan, 2023
   - [Project Video](https://youtu.be/iUkLfrCzRpg?si=Ho6-rx27_uwsKfLR)
   - [Interview Video](https://youtu.be/hzO8jsZuyYo?si=61wYlLEeV7PgS9vp)
