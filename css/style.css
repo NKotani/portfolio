@@ -1,31 +1,125 @@
 @charset "UTF-8";
-
-:root {
-  --blue-color: #91D1BF;
-  --red-color: #EC7B7C;
-}
-
-html {
-  /* 10px */
-  font-size:62.5%; 
-}
 body {
-  font-size:1.8rem;
-  margin: 0%;
-  padding: 0.7em;
+	margin: 0;
+	padding: 0;
+	font-family: "游ゴシック Medium", "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", sans-serif;
+	line-height: 1.6;
+    font-size: 16px;
 }
-*, *::before, *::after {
-  box-sizing:border-box;
+#header-container {
+  margin: 0 auto;
+  width: 694px;
 }
-.clearfix::after {
-  content:'';
-  display:block;
-  clear:both;
+header {
+	background-color: #2D1F27;
 }
-
-footer{
-  width: 100%;
-  padding: 0.1em;
-  background-color: var(--blue-color);
-  text-align: center;
+#head-inner {
+    padding: 25px 0;
+}
+h1 {
+	font-size: 26px;
+	font-weight: bold;
+	padding: 10px 0 0 0;
+	margin: 0;
+	color: #EEE9E7;
+}
+h1 a {
+	font-weight: bold;
+	color: #EEE9E7;
+	text-decoration: none;
+}
+h1 a:hover {
+	color: #EEE9E7;
+	text-decoration: none;
+}
+.description {
+	line-height: 1.2;
+	color: #f3f2eb;
+	margin: 0.5em 0 1em 0;
+}
+h2 {
+	font-size: 22px;
+	margin: 0;
+	padding: 4px 0;
+	border-bottom: 1px solid #6B4341;
+}
+#content-wrapper {margin: 0 auto;
+    width: 694px;}
+main {
+	color: #2D1F27;
+}
+#inner {
+	padding: 20px 0 0 0;
+}
+ul {
+	margin: 0 0 0 1em;
+	padding: 0;
+}
+li {
+	list-style: disc;
+}
+p {
+	margin: 1em 0;
+}
+img {
+	max-width: 100%;
+	height: auto;
+	border: 0;
+}
+hr {
+	border-width: 1px 0 0 0;
+	border-style: solid;
+	border-color: #EEE9E7;
+	height: 1px;
+}
+a {
+	font-weight: normal;
+}
+footer {
+  padding: 10px 0 0;
+  margin: 1em 0 0 0;
+  background-color: #AB928A;
+  color: #2D1F27;
+  border: 1px solid #926D5B;
+	font-size: 15px;
+	height: 8em;
+	clear: both;
+	text-align: center;
+}
+blockquote {
+	border: 1px solid #EEE9E7;
+	padding: 5px;
+	margin: 10px;
+}
+@media screen and (max-width: 767px) {
+#header-container {
+    margin: 0;
+	width: 100%;
+}
+#head-inner {
+    padding: 25px 10px;
+	background-color: #2D1F27;
+}
+#content-wrapper {
+margin: 0;
+	width: 100%;}
+main {
+width: 100%;
+	color: #2D1F27;
+}
+#inner {
+	padding: 20px 10px 0 10px;
+}
+h1 {
+	font-size: 20px;
+}
+h2 {
+	font-size: 18px;
+}
+h3 {
+	font-size: 16px;
+}
+h4 {
+	font-size: 14px;
+}
 }
