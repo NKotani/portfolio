@@ -33,4 +33,4 @@ The work that connects reality and VR space by combining VR and sword-shaped dev
   - [Interview Video](https://youtu.be/hzO8jsZuyYo?si=61wYlLEeV7PgS9vp)
 - IVRC (Interverse Virtual Reality Challenge)　LEAP STAGE @ Science Agora, 2023: **Win VoxelKei Award**
   - [Article featured in ITmedia NEWS](https://www.itmedia.co.jp/news/articles/2311/16/news046.html)
-- NIPPON TV IMAGINARIUM　Freestyle Computing Division　**Win Jury Award**
+- NIPPON TV IMAGINARIUM Freestyle Computing Division　**Win Jury Award**
