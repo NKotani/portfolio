@@ -1,5 +1,5 @@
 ## Portfolio
-**My portfolio URL is [here](https://NKotani.github.io/portfolio/)**
+✨　**My portfolio URL is [here](https://NKotani.github.io/portfolio/)**　✨
 
 ## 学会・コンテスト参加履歴
 ### 卒業研究
