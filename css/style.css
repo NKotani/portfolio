@@ -123,3 +123,12 @@ h4 {
 	font-size: 14px;
 }
 }
+th,
+td {
+	border-bottom: 1px solid rgb(160 160 160);
+	padding: 8px 10px;
+	text-align: left;
+}
+tbody > tr:nth-of-type(even) {
+	background-color: rgb(237 238 242);
+}
