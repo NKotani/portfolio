@@ -123,12 +123,21 @@ h4 {
 	font-size: 14px;
 }
 }
+table {
+	border-collapse: collapse;
+	letter-spacing: 1px;
+	margin: 1em 0;
+	width: 100%;
+}  
+thead {
+  background-color: #AB928A;
+}
 th,
 td {
-	border-bottom: 1px solid rgb(160 160 160);
+	border-bottom: 1px solid #6B4341;
 	padding: 8px 10px;
 	text-align: left;
 }
 tbody > tr:nth-of-type(even) {
-	background-color: rgb(237 238 242);
+	background-color: rgba(171, 146, 138, .5);
 }
