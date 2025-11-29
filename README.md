@@ -2,7 +2,7 @@
 ✨　**My portfolio URL is [here](https://NKotani.github.io/portfolio/)**　✨
 
 ## 学会・コンテスト参加履歴
-### 卒業研究
+### 学士での研究
 - MIRU(画像の認識・理解シンポジウム), 2023
   - 注目領域の抽出に基づく全天球画像からの指示物体推定  
 - SIGGRAPH, 2023
@@ -17,9 +17,17 @@ VRと剣型デバイスを組み合わせた現実とVR空間を繋ぐ作品
 - IVRC (Interverse Virtual Reality Challenge) LEAP STAGE @ サイエンスアゴラ, 2023: **VoxelKei賞受賞**　
   - [ITmedia NEWSで取り上げていただいた記事](https://www.itmedia.co.jp/news/articles/2311/16/news046.html)
 - 日テレイマジナリウムアワード2023　フリースタイルコンピューティング部門　**審査員奨励賞受賞**
+- [Project Page](https://github.com/IVRCstandard2023/The-Legend-of-Holy-Sword)
+
+### 修士での研究
+- MIRU(画像の認識・理解シンポジウム), 2024
+  - 心拍信号に基づくロックイン・サーモグラフィによる微小な体温変化の計測
+- SICE 2024
+- SICE 2025
+- Scientific Reports 2025
 
 ## Participation in Conferences and Contests
-### Graduation Research
+### Undergraduate research
 - MIRU (Symposium on Image Recognition and Understanding), 2023
   - Directed object estimation from omnidirectional images based on extraction of region of interest  
 - SIGGRAPH, 2023
@@ -34,3 +42,8 @@ The work that connects reality and VR space by combining VR and sword-shaped dev
 - IVRC (Interverse Virtual Reality Challenge)　LEAP STAGE @ Science Agora, 2023: **Win VoxelKei Award**
   - [Article featured in ITmedia NEWS](https://www.itmedia.co.jp/news/articles/2311/16/news046.html)
 - NIPPON TV IMAGINARIUM Freestyle Computing Division　**Win Jury Award**
+- [Project Page](https://github.com/IVRCstandard2023/The-Legend-of-Holy-Sword)
+
+### Master’s research
+- MIRU (Symposium on Image Recognition and Understanding), 2024
+  - Measurement of minute changes in body temperature using lock-in thermography based on heart rate signals
