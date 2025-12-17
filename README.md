@@ -22,9 +22,13 @@ VRと剣型デバイスを組み合わせた現実とVR空間を繋ぐ作品
 ### 修士での研究
 - MIRU(画像の認識・理解シンポジウム), 2024
   - 心拍信号に基づくロックイン・サーモグラフィによる微小な体温変化の計測
-- SICE 2024
-- SICE 2025
-- Scientific Reports 2025
+- SICE FES, 2024
+  - Detecting ∼10 mK Face Temperature Change Based on Lock-in Thermography Referencing Heartbeat
+- SICE FES, 2025
+  - Synchro-Thermography: Monitoring 10 mK Facial Temperature Changes with Heartbeat Referencing for Physiological Sensing
+- Scientific Reports, 2025
+  - Monitoring the effect of alcohol intake via facial temperature variations using thermography synchronized with heartbeat
+  - [Project Page](https://github.com/NKotani/synchro-thermography)
 
 ## Participation in Conferences and Contests
 ### Undergraduate research
@@ -47,3 +51,10 @@ The work that connects reality and VR space by combining VR and sword-shaped dev
 ### Master’s research
 - MIRU (Symposium on Image Recognition and Understanding), 2024
   - Measurement of minute changes in body temperature using lock-in thermography based on heart rate signals
+- SICE FES, 2024
+  - Detecting ∼10 mK Face Temperature Change Based on Lock-in Thermography Referencing Heartbeat
+- SICE FES, 2025
+  - Synchro-Thermography: Monitoring 10 mK Facial Temperature Changes with Heartbeat Referencing for Physiological Sensing
+- Scientific Reports, 2025
+  - Monitoring the effect of alcohol intake via facial temperature variations using thermography synchronized with heartbeat
+  - [Project Page](https://github.com/NKotani/synchro-thermography)
